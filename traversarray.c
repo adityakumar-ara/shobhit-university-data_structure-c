@@ -11,14 +11,14 @@
 
 #include<stdio.h>
 int main(){
-    int arr[20] = {1,2,3,4,5,6,7,8,9,0};
+    int arr[20] = {1,2,3,4,5,6,7,8,9,10};
     int i,n;
     // printf("enter number of element");
     // scanf("%d",&n);
     
     for ( i = 0; i < 10; i++)
     {
-      printf("%d",arr[i]);  
+      printf("%d\n",arr[i]);  
     }
  return 0;   
 }      
