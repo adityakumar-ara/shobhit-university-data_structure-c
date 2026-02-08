@@ -17,7 +17,7 @@
 //         // Check for new maximum
 //         if (arr[i] > max) {
 //             max = arr[i];
-//         }
+//         } 
 
 //         // Check for new minimum
 //         if (arr[i] < min) {
