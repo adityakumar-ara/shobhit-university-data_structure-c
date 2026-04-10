@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    int arr[]={10,20,30,40,50};
-    int lr=0,up=4,f=0,mid;
+    int arr[]={10,20,30,40,50,60,70,80,90};
+    int lr=0,up=8,f=0,mid;
     int search;
     printf("enter number who want to serach:");
     scanf("%d",&search);
