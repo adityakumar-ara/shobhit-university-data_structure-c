@@ -44,6 +44,7 @@ int main()
                 min = j;
             }
         }
+       
         if (min != i)
         {
             temp = arr[min];
